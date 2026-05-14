@@ -24,9 +24,8 @@ Melhorar a gestão de agendamentos e presença em salas de atendimento por meio 
 - Fórmulas avançadas
 - Validação de dados
 - Proteção de células
-- Dashboards
-- Gráficos dinâmicos
-- Automação de estrutura com IA + Python (`openpyxl`)
+- Dashboards :construction:
+- Gráficos dinâmicos :construction:
 
 ---
 
@@ -85,7 +84,7 @@ Foram aplicadas melhorias para uso compartilhado:
 - Taxa de faltas
 - Ocupação por sala
 - Distribuição mensal
-- Visualização gráfica
+- Visualização gráfica :construction:
 
 ---
 
