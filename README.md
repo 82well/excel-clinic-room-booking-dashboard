@@ -1,4 +1,4 @@
-# 📊 Sistema de Gestão de Reservas de Salas — Clínica Escola de Psicologia
+# 📊 Planilha Gestão de Reservas de Salas — Clínica Escola de Psicologia
 
 Projeto de reestruturação e automação de uma planilha Excel para gestão de reservas de salas, presença de atendimentos e acompanhamento operacional em uma Clínica Escola de Psicologia.
 
