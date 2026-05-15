@@ -119,6 +119,24 @@ Este projeto pode ser adaptado para:
 
 ---
 
+<h2>📸 Preview do Projeto</h2>
+
+<p align="center">
+  <img src="images/EscolhaSala.jpg" width="800"/>
+</p>
+
+<p align="center">
+  <img src="images/SelecionaAtividade.jpg" width="800"/>
+</p>
+
+<p align="center">
+  <img src="images/SelecionaMes.jpg" width="800"/>
+</p>
+
+<p align="center">
+  <img src="images/SelecionaStatus.jpg" width="800"/>
+</p>
+
 ## 👨‍💻 Autor
 
 Wellington Rodrigues
